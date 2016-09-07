@@ -16,6 +16,7 @@ Overview of Clone Detection Tools for Java
 | Tool        | Src | Bin | Notes        | Link 
 | ----------- |:---:|:---:|-------------:|:-----
 | CCFinder(X) | x   | x   | Win32, Ubuntu i386, Port for OS X | http://www.ccfinder.net/ccfinderx.html, https://github.com/nicbet/ccfinderx-osx
+| ConQAT      | x   | -   | normalized token comparison with suffix-tree | https://www.cqse.eu/en/products/conqat/install/
 | CPD         | x   | x   | Part of PMD, Karp-Rabin string matching | https://github.com/pmd/pmd
 | CP-Miner    | -   | -   | commercial, maybe on request for evaluation | http://opera.ucsd.edu/Projects/ARTS/CP-Miner.htm
 | iClones     | -   | on request | normalized token comparison with suffix-tree | http://www.softwareclones.org/geticlones.php
