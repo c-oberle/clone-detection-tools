@@ -1,7 +1,7 @@
 Overview of Clone Detection Tools for Java
 ===========
 
-1. Text
+1. Text-based
 ------
 | Tool        | Src | Bin | Notes                       | Link 
 | ----------- |:---:|:---:|----------------------------:|:-----
@@ -10,7 +10,7 @@ Overview of Clone Detection Tools for Java
 | SDD         | x   | x   | -                           | https://sourceforge.net/projects/sddforeclipse/
 | Simian      | -   | x   | -                           | http://www.harukizaemon.com/simian/index.html
 
-2. Token
+2. Token-based
 --------
 
 | Tool        | Src | Bin | Notes        | Link 
@@ -22,7 +22,7 @@ Overview of Clone Detection Tools for Java
 | iClones     | -   | on request | normalized token comparison with suffix-tree | http://www.softwareclones.org/geticlones.php
 | JPlag       | x   | x   | greedy string tiling | https://jplag.ipd.kit.edu
 
-3. Tree
+3. Tree-based
 --------
 
 | Tool        | Src | Bin | Notes           | Link 
@@ -31,12 +31,8 @@ Overview of Clone Detection Tools for Java
 | CloneDR     | -   | -   | commercial      | http://www.semdesigns.com/products/clone/JavaCloneDR.html
 | Deckard     | x   | -   | Java <1.5       | https://github.com/skyhover/Deckard
 
-4. Graph
+4. Graph-based
 ---------
 | Tool        | Src | Bin | Notes           | Link 
 | ----------- |:---:|:---:|----------------:|:-----
 | Scorpio     | x   | -   | PDG-based       | https://github.com/YoshikiHigo/TinyPDG/tree/master/TinyPDG/src/yoshikihigo/tinypdg/scorpio
-
-5. Metrics
-----------
-
