@@ -6,7 +6,7 @@ Overview of Clone Detection Tools for Java
 | Tool        | Src | Bin | Notes                       | Link 
 | ----------- |:---:|:---:|----------------------------:|:-----
 | Duplo(c)    | x   | -   | Hashing of strings per line | https://github.com/xsgordon/duplo-fork
-| NiCad4      | -   | x   | includes normalization      | http://www.txl.ca/nicaddownload.html
+| NiCad6      | -   | x   | includes normalization      | https://www.txl.ca/txl-nicaddownload.html
 | SDD         | x   | x   | -                           | https://sourceforge.net/projects/sddforeclipse/
 | Simian      | -   | x   | -                           | http://www.harukizaemon.com/simian/index.html
 
@@ -28,11 +28,11 @@ Overview of Clone Detection Tools for Java
 | Tool        | Src | Bin | Notes           | Link 
 | ----------- |:---:|:---:|----------------:|:-----
 | CloneDigger | x   | x   | -               | http://clonedigger.sourceforge.net/download.html
-| CloneDR     | -   | -   | commercial      | http://www.semdesigns.com/products/clone/JavaCloneDR.html
-| Deckard     | x   | -   | Java <1.5       | https://github.com/skyhover/Deckard
+| CloneDR     | -   | -   | commercial      | http://www.semdesigns.com/Products/Clone/JavaCloneDR.html
+| Deckard     | x   | -   | Java 7       | https://github.com/skyhover/Deckard
 
 4. Graph-based
 ---------
 | Tool        | Src | Bin | Notes           | Link 
 | ----------- |:---:|:---:|----------------:|:-----
-| Scorpio     | x   | -   | PDG-based       | https://github.com/YoshikiHigo/TinyPDG/tree/master/TinyPDG/src/yoshikihigo/tinypdg/scorpio
+| Scorpio     | x   | -   | PDG-based       | https://github.com/YoshikiHigo/TinyPDG/tree/master/src/main/java/yoshikihigo/tinypdg/scorpio
