@@ -20,7 +20,7 @@ Overview of Clone Detection Tools for Java
 | CPD         | x   | x   | Part of PMD, Karp-Rabin string matching | https://github.com/pmd/pmd
 | CP-Miner    | -   | -   | commercial, maybe on request for evaluation | http://opera.ucsd.edu/Projects/ARTS/CP-Miner.htm
 | iClones     | -   | on request | normalized token comparison with suffix-tree | http://www.softwareclones.org/geticlones.php
-| JPlag       | x   | x   | greedy string tiling | https://jplag.ipd.kit.edu
+| JPlag       | x   | x   | greedy string tiling | <https://github.com/jplag/JPlag>
 
 3. Tree-based
 --------
