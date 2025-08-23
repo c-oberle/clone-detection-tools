@@ -30,7 +30,7 @@ Overview of Clone Detection Tools for Java
 | CloneDigger       | x   | x   | -                      | http://clonedigger.sourceforge.net/download.html
 | CloneDR           | -   | -   | commercial             | http://www.semdesigns.com/Products/Clone/JavaCloneDR.html
 | Deckard           | x   | -   | Java 7                 | https://github.com/skyhover/Deckard
-| DrDupLex / DrDup2 | x   | -   | based on index of ASTs | https://github.com/tronicek/DrDupLex, https://github.com/tronicek/DrDup2
+| DrDupLex / DrDup2 | x   | x   | based on index of ASTs | https://github.com/tronicek/DrDupLex, https://github.com/tronicek/DrDup2
 
 4. Graph-based
 ---------
